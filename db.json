@@ -1,0 +1,164 @@
+{
+  "about": [
+    {
+      "fullname": "John Abraham",
+      "degree": "Ph.d",
+      "email": "johnabraham@gmail.com",
+      "phone": "(+2) 123 545 9000",
+      "publishedBooks": "02",
+      "reviewPoint": "4.5",
+      "awards": "04",
+      "smallInfo": "All the Lorem Ipsum generators on the Internet tend to repeated predefined chunks as necessary, making this the first true value generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful.",
+      "country": "United Kingdom",
+      "language": "English",
+      "genre": "Historiography",
+      "publicationDate": "1991",
+      "imageHome": "./assets/images/people/person1.jpg",
+      "imageAboutBig": "./assets/images/people/person1_2.jpg",
+      "imageAboutSmall": "./assets/images/people/person1_3.jpg",
+      "qrCode": "./assets/images/people/qrCoder.png",
+      "authorStory": [
+        {
+          "title": "Great Author Awards - 1996 & 2000",
+          "content": "How to navigate around the interface and toggle on/off the panels you wish to use."
+        },
+        {
+          "title": "10 Times New York Times ® Best Seller",
+          "content": "How to navigate around the interface and toggle on/off the panels you wish to use."
+        },
+        {
+          "title": "Writer of Hack Productivity",
+          "content": "How to navigate around the interface and toggle on/off the panels you wish to use."
+        }
+      ]
+    }
+  ],
+  "allBooks": [
+    {
+      "id": 1,
+      "image": "./assets/images/books/Book1.png",
+      "title": "The Dark Light",
+      "price": "23.89",
+      "info": "Many variations of passages of Lorem Ipsum willing araise alteration in some form.",
+      "type": "Printed Books",
+      "publisher": "Learning Private Limited (1 January 2021)",
+      "language": "English",
+      "paperback": "212 pages",
+      "code": "9788120345799",
+      "dimensions": "20 x 14 x 4 cm",
+      "inStock": "10"
+    },
+    {
+      "id": 2,
+      "image": "./assets/images/books/Book1.png",
+      "title": "The Dark Light",
+      "price": "33.89",
+      "info": "Many variations of passages of Lorem Ipsum willing araise alteration in some form.",
+      "type": "Audio Books",
+      "smallImg": "./assets/icons/listen.svg",
+      "publisher": "Learning Private Limited (1 January 2021)",
+      "language": "English",
+      "paperback": "212 pages",
+      "code": "9788120345799",
+      "dimensions": "20 x 14 x 4 cm",
+      "inStock": "9"
+    },
+    {
+      "id": 3,
+      "image": "./assets/images/books/Book1.png",
+      "title": "The Dark Light",
+      "price": "53.89",
+      "info": "Many variations of passages of Lorem Ipsum willing araise alteration in some form.",
+      "type": "CD Books",
+      "smallImg": "./assets/icons/plak.svg",
+      "publisher": "Learning Private Limited (1 January 2021)",
+      "language": "English",
+      "paperback": "212 pages",
+      "code": "9788120345799",
+      "dimensions": "20 x 14 x 4 cm",
+      "inStock": "5"
+    },
+    {
+      "id": 4,
+      "image": "./assets/images/books/Book2.png",
+      "title": "Atomic One’s",
+      "price": "33.89",
+      "info": "Many variations of passages of Lorem Ipsum willing araise alteration in some form.",
+      "type": "Printed Books",
+      "publisher": "Learning Private Limited (1 January 2021)",
+      "language": "English",
+      "paperback": "212 pages",
+      "code": "9788120345799",
+      "dimensions": "20 x 14 x 4 cm",
+      "inStock": "12"
+    },
+    {
+      "id": 5,
+      "image": "./assets/images/books/Book2.png",
+      "title": "Atomic One’s",
+      "price": "43.89",
+      "info": "Many variations of passages of Lorem Ipsum willing araise alteration in some form.",
+      "type": "Audio Books",
+      "smallImg": "./assets/icons/listen.svg",
+      "publisher": "Learning Private Limited (1 January 2021)",
+      "language": "English",
+      "paperback": "212 pages",
+      "code": "9788120345799",
+      "dimensions": "20 x 14 x 4 cm",
+      "inStock": "14"
+    },
+    {
+      "id": 6,
+      "image": "./assets/images/books/Book2.png",
+      "title": "Atomic One’s",
+      "price": "33.89",
+      "info": "Many variations of passages of Lorem Ipsum willing araise alteration in some form.",
+      "type": "CD Books",
+      "smallImg": "./assets/icons/plak.svg",
+      "publisher": "Learning Private Limited (1 January 2021)",
+      "language": "English",
+      "paperback": "212 pages",
+      "code": "9788120345799",
+      "dimensions": "20 x 14 x 4 cm",
+      "inStock": "5"
+    }
+  ],
+  "books": [
+    {
+      "id": 1,
+      "title": "The Dark Light",
+      "info": "Many variations of passages of Lorem Ipsum willing araise alteration in some form.",
+      "pages": "586 pages",
+      "length": "10 Hours",
+      "image": "./assets/images/books/Book1.png",
+      "raiting": "4.00",
+      "voteCounts": "260"
+    },
+    {
+      "id": 2,
+      "title": "Atomic One’s",
+      "info": "Many variations of passages of Lorem Ipsum willing araise alteration in some form.",
+      "pages": "376 pages",
+      "length": "8 Hours",
+      "image": "./assets/images/books/Book2.png",
+      "raiting": "4.5",
+      "voteCounts": "305"
+    }
+  ],
+  "banner": [
+    {
+      "title": "Get Book Copy Today!",
+      "content": "This the first true value generator on the Internet. It uses alphas dictionary of over 200 Latin words.",
+      "image": "./assets/images/banner_img.png"
+    }
+  ],
+  "contact": [
+    {
+      "title": "Keep in Touch",
+      "info": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+      "address": "No: 09a, Downtown, San Dieago, USA.",
+      "email": "support@pages.com",
+      "phone": "1-800-123-9999"
+    }
+  ]
+}
